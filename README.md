@@ -17,8 +17,8 @@
 ---
 
 ### 📈 GitHub Stats
-![Ved's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedshukla&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedshukla&layout=compact&theme=radical)
+![Ved's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedshukla&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedshukla&layout=compact&theme=dark)
 
 ---
 
