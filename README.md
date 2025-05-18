@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Ved Shukla
 
-<!--
-**vedshukla-dev/vedshukla-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Senior Software Engineer | Full Stack Developer | AI/ML Enthusiast
 
-Here are some ideas to get you started:
+🎓 MTech in AI/ML @ BITS Pilani  
+🎓 BS in Data Science @ IIT Madras  
+💼 Infosys | Ex-Research Intern @ ARAI (Autonomous Vehicles)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 I specialize in:
+- React.js, Next.js, Node.js
+- MongoDB, Express, REST APIs
+- Python, Machine Learning, NLP
+- AI SaaS & Scalable Web Apps
+
+---
+
+### 📈 GitHub Stats
+![Ved's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedshukla&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedshukla&layout=compact&theme=radical)
+
+---
+
+### 📫 Let's connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-VedShukla-blue?logo=linkedin)](https://www.linkedin.com/in/ved-shukla-572901205)
+[![Gmail](https://img.shields.io/badge/Gmail-vedshukla@gmail.com-red?logo=gmail)](vedjshukla@gmail.com)
